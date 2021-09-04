@@ -2,7 +2,7 @@
 - 👀 I’m interested in civil engineering
 - 🌱 I’m currently learning to work with computer software
 - 💞️ I’m looking to collaborate on open projects
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin
 
 <!---
 manideepmattapalli/manideepmattapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
